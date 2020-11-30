@@ -7,9 +7,9 @@ hash[key]
 end
 
 def update_counting_hash(hash, key)
-if hello[key]
-  hello[key] = 6
-else hello[key] => 1
+if hash[key]
+  hash[key] = 6
+else hash[key] => 1
 end
 Hash
 end
