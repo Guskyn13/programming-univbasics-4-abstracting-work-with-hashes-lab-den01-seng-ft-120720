@@ -11,3 +11,5 @@ if hash[key]
   hash[key] +=1
 elsehash[key] = 1
 end
+Hash
+end
